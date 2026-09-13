@@ -38,11 +38,6 @@ Você precisa apenas de um navegador web moderno (Google Chrome, Firefox, Edge, 
    ```bash
    git clone [https://github.com/clebson90/exercicios-do-curso-em-video-HTML5-e-CSS3.git](https://github.com/clebson90/exercicios-do-curso-em-video-HTML5-e-CSS3.git)
 
-**Acesse a pasta do repositório:**
-Bash
-  cd exercicios-do-curso-em-video-HTML5-e-CSS3
-
-Abra qualquer arquivo .html diretamente no seu navegador.
 ## 👤 Autor
 Desenvolvido por Janiclebson da Silva Pereira Filho.
 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
